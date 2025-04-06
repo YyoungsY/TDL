@@ -3,7 +3,7 @@ package com.example.y_tdl;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-//asdasdasd
+//asdasdasd 씨발 ㄴㅇㅁㄴㅇ
 
 @SpringBootApplication
 public class YTdlApplication {
